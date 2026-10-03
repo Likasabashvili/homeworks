@@ -1,0 +1,15 @@
+/Users/likasabashvili/Desktop/c#/homework1/homework2/bin/Debug/net10.0/homework2
+/Users/likasabashvili/Desktop/c#/homework1/homework2/bin/Debug/net10.0/homework2.deps.json
+/Users/likasabashvili/Desktop/c#/homework1/homework2/bin/Debug/net10.0/homework2.runtimeconfig.json
+/Users/likasabashvili/Desktop/c#/homework1/homework2/bin/Debug/net10.0/homework2.dll
+/Users/likasabashvili/Desktop/c#/homework1/homework2/bin/Debug/net10.0/homework2.pdb
+/Users/likasabashvili/Desktop/c#/homework1/homework2/obj/Debug/net10.0/homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/likasabashvili/Desktop/c#/homework1/homework2/obj/Debug/net10.0/homework2.AssemblyInfoInputs.cache
+/Users/likasabashvili/Desktop/c#/homework1/homework2/obj/Debug/net10.0/homework2.AssemblyInfo.cs
+/Users/likasabashvili/Desktop/c#/homework1/homework2/obj/Debug/net10.0/homework2.csproj.CoreCompileInputs.cache
+/Users/likasabashvili/Desktop/c#/homework1/homework2/obj/Debug/net10.0/homework2.sourcelink.json
+/Users/likasabashvili/Desktop/c#/homework1/homework2/obj/Debug/net10.0/homework2.dll
+/Users/likasabashvili/Desktop/c#/homework1/homework2/obj/Debug/net10.0/refint/homework2.dll
+/Users/likasabashvili/Desktop/c#/homework1/homework2/obj/Debug/net10.0/homework2.pdb
+/Users/likasabashvili/Desktop/c#/homework1/homework2/obj/Debug/net10.0/homework2.genruntimeconfig.cache
+/Users/likasabashvili/Desktop/c#/homework1/homework2/obj/Debug/net10.0/ref/homework2.dll
