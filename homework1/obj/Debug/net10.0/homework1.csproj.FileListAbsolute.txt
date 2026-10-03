@@ -12,3 +12,4 @@
 /Users/likasabashvili/Desktop/c#/homework1/homework1/obj/Debug/net10.0/homework1.pdb
 /Users/likasabashvili/Desktop/c#/homework1/homework1/obj/Debug/net10.0/homework1.genruntimeconfig.cache
 /Users/likasabashvili/Desktop/c#/homework1/homework1/obj/Debug/net10.0/ref/homework1.dll
+/Users/likasabashvili/Desktop/c#/homework1/homework1/obj/Debug/net10.0/homework1.sourcelink.json
