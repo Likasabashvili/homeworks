@@ -1,0 +1,15 @@
+/Users/likasabashvili/Desktop/c#/homework1/ListAndDictionary/bin/Debug/net10.0/ListAndDictionary
+/Users/likasabashvili/Desktop/c#/homework1/ListAndDictionary/bin/Debug/net10.0/ListAndDictionary.deps.json
+/Users/likasabashvili/Desktop/c#/homework1/ListAndDictionary/bin/Debug/net10.0/ListAndDictionary.runtimeconfig.json
+/Users/likasabashvili/Desktop/c#/homework1/ListAndDictionary/bin/Debug/net10.0/ListAndDictionary.dll
+/Users/likasabashvili/Desktop/c#/homework1/ListAndDictionary/bin/Debug/net10.0/ListAndDictionary.pdb
+/Users/likasabashvili/Desktop/c#/homework1/ListAndDictionary/obj/Debug/net10.0/ListAndDictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/likasabashvili/Desktop/c#/homework1/ListAndDictionary/obj/Debug/net10.0/ListAndDictionary.AssemblyInfoInputs.cache
+/Users/likasabashvili/Desktop/c#/homework1/ListAndDictionary/obj/Debug/net10.0/ListAndDictionary.AssemblyInfo.cs
+/Users/likasabashvili/Desktop/c#/homework1/ListAndDictionary/obj/Debug/net10.0/ListAndDictionary.csproj.CoreCompileInputs.cache
+/Users/likasabashvili/Desktop/c#/homework1/ListAndDictionary/obj/Debug/net10.0/ListAndDictionary.sourcelink.json
+/Users/likasabashvili/Desktop/c#/homework1/ListAndDictionary/obj/Debug/net10.0/ListAndDictionary.dll
+/Users/likasabashvili/Desktop/c#/homework1/ListAndDictionary/obj/Debug/net10.0/refint/ListAndDictionary.dll
+/Users/likasabashvili/Desktop/c#/homework1/ListAndDictionary/obj/Debug/net10.0/ListAndDictionary.pdb
+/Users/likasabashvili/Desktop/c#/homework1/ListAndDictionary/obj/Debug/net10.0/ListAndDictionary.genruntimeconfig.cache
+/Users/likasabashvili/Desktop/c#/homework1/ListAndDictionary/obj/Debug/net10.0/ref/ListAndDictionary.dll
