@@ -1,0 +1,15 @@
+/Users/likasabashvili/Desktop/c#/homework1/generic/bin/Debug/net10.0/generic
+/Users/likasabashvili/Desktop/c#/homework1/generic/bin/Debug/net10.0/generic.deps.json
+/Users/likasabashvili/Desktop/c#/homework1/generic/bin/Debug/net10.0/generic.runtimeconfig.json
+/Users/likasabashvili/Desktop/c#/homework1/generic/bin/Debug/net10.0/generic.dll
+/Users/likasabashvili/Desktop/c#/homework1/generic/bin/Debug/net10.0/generic.pdb
+/Users/likasabashvili/Desktop/c#/homework1/generic/obj/Debug/net10.0/generic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/likasabashvili/Desktop/c#/homework1/generic/obj/Debug/net10.0/generic.AssemblyInfoInputs.cache
+/Users/likasabashvili/Desktop/c#/homework1/generic/obj/Debug/net10.0/generic.AssemblyInfo.cs
+/Users/likasabashvili/Desktop/c#/homework1/generic/obj/Debug/net10.0/generic.csproj.CoreCompileInputs.cache
+/Users/likasabashvili/Desktop/c#/homework1/generic/obj/Debug/net10.0/generic.sourcelink.json
+/Users/likasabashvili/Desktop/c#/homework1/generic/obj/Debug/net10.0/generic.dll
+/Users/likasabashvili/Desktop/c#/homework1/generic/obj/Debug/net10.0/refint/generic.dll
+/Users/likasabashvili/Desktop/c#/homework1/generic/obj/Debug/net10.0/generic.pdb
+/Users/likasabashvili/Desktop/c#/homework1/generic/obj/Debug/net10.0/generic.genruntimeconfig.cache
+/Users/likasabashvili/Desktop/c#/homework1/generic/obj/Debug/net10.0/ref/generic.dll
