@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListAndDictionary", "ListAn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generic", "generic\generic.csproj", "{7AE9F291-46CB-47A3-B4C2-DB8B8FBA7244}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegates", "delegates\delegates.csproj", "{22382C88-4A74-46F3-A54D-B82B11531B28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{7AE9F291-46CB-47A3-B4C2-DB8B8FBA7244}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AE9F291-46CB-47A3-B4C2-DB8B8FBA7244}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AE9F291-46CB-47A3-B4C2-DB8B8FBA7244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22382C88-4A74-46F3-A54D-B82B11531B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22382C88-4A74-46F3-A54D-B82B11531B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22382C88-4A74-46F3-A54D-B82B11531B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22382C88-4A74-46F3-A54D-B82B11531B28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
